@@ -1,0 +1,423 @@
+/* Extra small devices (portrait phones, less than 576px) */
+@media (max-width: 575.98px) { 
+     /* banner start */
+    .banner-content {
+        margin-top: 40px;
+        margin-bottom: 70px;
+        text-align: center;
+    }
+    .banner-content h1 {       
+        font-size: 25px;
+        line-height: 45px;        
+    }
+    .banner-content p {      
+        font-size: 16px;
+    }
+    /* banner end */
+           /* about us start */
+.about-us{
+    margin-top: 40px;
+    margin-bottom:40px;
+}
+
+.about-content p{
+    margin-top: 25px;
+}
+.about-image{
+    margin-top: 25px;
+}
+/* about us end */
+/* professional area start */
+.progressbar-content {
+    margin-top: 0;
+    margin-bottom: 60px;
+}
+/* professional area end */
+/* counter area start */
+.counter-area{
+    padding-bottom: 0px;
+}
+.single-counter{
+    text-align: center;
+    margin-bottom: 70px;
+}
+.counter-icon {
+       text-align: center;
+}
+/* counter area end */
+/* gallery area start */
+.gallery-image{
+    
+}
+.mx-50{
+    width:100%;
+}
+/* gallery area end */
+/* service area start */
+.service-area{
+    padding-top: 60px;
+    padding-bottom: 20px;
+    background-color:#f5f5f5;
+}
+.single-service{
+    margin-bottom: 20px;
+}
+/* service area end */
+ /* TESTIMONIAL START */
+ .testimonial-content{       
+    padding-top: 60px;
+    padding-bottom: 60px;
+}
+
+.testimonial-content p{
+    font-size:20px;
+}
+.custom-integators{
+    bottom:0px;
+}
+.custom-integators [data-bs-target] {   
+    width: 8px;
+    height:8px;     
+}
+.custom-integators .active {
+    opacity: 1;
+    width:10px;
+    height: 10px;   
+}
+/* TESTIMONIAL END*/
+/* branding area start */
+
+.branding-margin{
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+/* branding area end */
+ /* contact ares start */
+ .contact-area {
+    padding-top: 50px;
+    padding-bottom: 50px;    
+}
+ .form-content {
+     text-align: center;
+    margin-top: 35px;
+    padding: 0 10PX;
+}
+  .yname{
+    width: 300px;
+    margin: 0 auto;
+    margin-bottom: 20px;
+    height: 40px;
+   
+}
+ 
+.yemail{
+    height: 40px;
+    width: 300px;
+    margin-bottom: 20px;
+    margin: 0 auto;
+}
+
+    .ytitle{
+        margin-top: 20px !important;
+        height: 40px;
+        width: 300px;
+        margin: 0 auto;
+    }
+    .ymessage{
+    width: 300px;
+    margin: 0 auto;
+    margin-top: 20px;
+    }
+/* contact ares end */
+/* footer area start */
+footer{
+    padding-top: 50px;
+    padding-bottom:50px;   
+}
+/* footer area end */
+ }
+
+/* Small devices (landscape phones, 576px and up)*/
+@media (min-width: 576px) and (max-width: 767.98px) { 
+     /* banner start */
+    .banner-content {
+        margin-top: 55px;
+        margin-bottom: 100px;
+    }
+   /* banner end */
+       /* about us start */
+.about-us{
+    margin-top: 50px;
+    margin-bottom:50px;
+}
+
+.about-content p{
+    margin-top: 25px;
+}
+.about-image{
+    margin-top: 25px;
+}
+/* about us end */
+/* professional area start */
+.progressbar-content {
+    margin-top: 0px;
+    margin-bottom: 80px;
+}
+/* professional area end */
+/* counter area start */
+.contact-area {
+    padding-top: 70px;
+    padding-bottom: 70px;    
+}
+.single-counter{
+    text-align: center;
+    margin-bottom: 80px;
+}
+.counter-icon {
+       text-align: center;
+}
+/* counter area end */
+/* gallery area start */
+.gallery-image{
+    
+}
+.mx-50{
+    width: 50%;
+}
+/* gallery area end */
+/* service area start */
+.service-area{
+    padding-top: 60px;
+    padding-bottom: 20px;
+    background-color:#f5f5f5;
+}
+.single-service{
+    margin-bottom: 20px;
+}
+/* service area end */
+ /* TESTIMONIAL START */
+ .testimonial-content{       
+    padding-top: 80px;
+    padding-bottom: 80px;
+}
+
+.testimonial-content p{
+    font-size: 21px;
+}
+.custom-integators{
+    bottom: 20px;
+}
+.custom-integators{
+    bottom: 0;
+}
+.custom-integators [data-bs-target] {   
+    width: 8px;
+    height:8px;
+    border-radius: 50%;   
+}
+.custom-integators .active {
+    opacity: 1;
+    width:12px;
+    height: 12px;
+    border-radius: 50%;   
+}
+/* TESTIMONIAL END*/
+/* branding-area start */
+.bmxwidth{
+    max-width:50%;
+}
+
+.md-d-none{
+    display: none;
+}
+/* branding-area end */
+ /* contact ares start */
+ .form-content {
+    margin-top: 35px;
+    padding: 0 10PX;
+}
+  .yname{
+    width:518px;
+   
+}
+ 
+.yemail{
+    margin-top: 30px;
+    margin-left: 3px;
+    width:518px;
+}
+
+    .ytitle{
+        width: 710px;
+    }
+    
+/* contact ares end */
+/* footer area start */
+footer{
+    padding-top: 60px;
+    padding-bottom:60px;   
+}
+/* footer area end */
+ }
+
+/* Medium devices (tablets, 768px and up) */
+@media (min-width: 768px) and (max-width: 991.98px) { 
+
+    /* banner start */
+    .banner-content {
+        margin-top: 80px;
+        margin-bottom: 130px;
+    }
+    /* banner end */
+    /* about us start */
+.about-us{
+    margin-top: 60px;
+    margin-bottom:60px;
+}
+
+.about-content p{
+    margin-top: 30px;
+}
+.about-image{
+    margin-top: 30px;
+}
+/* about us end */
+/* professional area start */
+.progressbar-content {
+    margin-top: 0px;
+    margin-bottom: 100px;
+}
+/* professional area end */
+
+/* counter start */
+.counter-area{    
+    padding-bottom: 0px;
+  
+}
+.single-counter{
+    margin-bottom: 50px;
+}
+/* counter end */
+/* service area start */
+.service-area{
+    padding-top: 70px;
+    padding-bottom: 30px;
+    background-color:#f5f5f5;
+}
+.single-service{
+    margin-bottom: 40px;
+}
+/* service area end */
+ /* TESTIMONIAL START */
+ .testimonial-content{       
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+.custom-integators{
+    bottom: 20px;
+}
+/* TESTIMONIAL END*/
+/* branding-area start */
+.bmxwidth{
+    max-width: 25%;
+}
+
+.md-d-none{
+    display: none;
+}
+/* branding-area end */
+  /* contact ares start */
+  .contact-area {
+    padding-top: 80px;
+    padding-bottom: 80px;    
+}
+  .form-content {
+    margin-top: 35px;
+    padding: 0 10PX;
+}
+  .yname{
+    width:335px;
+   
+}
+ 
+.yemail{
+    margin-left: 3px;
+    width:338px;}
+
+    .ytitle{
+        width: 710px;
+    }
+    
+/* contact ares end */
+/* gallery area start */
+.gallery-image{
+    
+}
+.mx-50{
+    width: 50%;
+}
+/* gallery area end */
+/* footer area start */
+footer{
+    padding-top: 70px;
+    padding-bottom:70px;   
+}
+/* footer area end */
+
+ }
+
+/* Large devices (desktops, 992px and up) */
+@media (min-width: 992px) and (max-width: 1199.98px) { 
+
+    /* TESTIMONIAL START */
+    .testimonial-content{       
+        padding-top: 125px;
+        padding-bottom: 125px;
+    }
+    /* TESTIMONIAL END */
+    /* contact ares start */
+    .yname{
+        width:270px;
+       
+    }
+     
+    .yemail{
+        margin-left: 3px;
+        width:275px;
+    }
+        
+    /* contact ares end */
+ }
+
+/*Extra Large devices (desktops, 1200px and up) */
+@media (min-width: 1200px) and (max-width: 1399.98px) { 
+
+   
+ }
+
+/*Extra Extra large devices (large desktops, 1400px and up) */
+@media (min-width: 1400px) {
+/* contact area start */
+.yname{
+    width: 375px;
+   
+}
+ 
+.yemail{
+    margin-left: 3px;
+    width: 375px;
+    
+}
+
+.ytitle{
+    margin-top: 30px;
+    width: 765px;
+    
+}
+.form-content button{
+    margin-top: 30px;
+}
+/* contact area end */
+   
+ }
